@@ -1,0 +1,11 @@
+h1 {
+	text-align: center;
+	
+}
+body {
+	background-color: lightpink;
+	background-image: url(Gambar/pexels-photo-1831234.jpeg);
+	background-image: url(Gambar/Twice.jpg);
+	background-position: top center;
+	background-repeat: no-repeat;
+}

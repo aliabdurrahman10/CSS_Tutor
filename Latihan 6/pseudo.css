@@ -1,0 +1,48 @@
+.hello:link {
+	color: orange;
+
+}
+
+.hello:hover { /*kalo di deketin ke cursor */
+	font-family: arial;
+	font-size: 50px;
+	color: red;
+}
+
+.hello:active {
+	font-style: italic;
+}
+
+.hello:visited {
+	color: red;
+}
+
+li:first-child a {
+	color: green;
+}
+
+li:last-child a {
+	color: red;
+}
+
+li:nth-child(5) a {
+	color: yellow;
+}
+
+li:nth-child(3n) a { /*kelipatan 3*/
+	color: palegreen;
+}
+
+/* li:nth-child(odd/even) a { (ganjil/genap)
+	color: palegreen;
+} */
+
+p:first-of-type {
+	color: red;
+}
+
+p:last-of-type {
+	color: pink;
+}
+
+

@@ -1,0 +1,16 @@
+h1 {
+
+	font-family: arial, verdana, sans-serif;
+	font-size: 50px;
+	font-weight: lighter;
+	color: red;
+	font-style: italic;
+}
+
+p {
+	font-family: georgia, serif;
+	font-size: 50px;
+	font-variant: small-caps;
+	font-style: oblique;
+	line-height: 70px;
+}
